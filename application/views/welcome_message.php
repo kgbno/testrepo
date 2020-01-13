@@ -5,8 +5,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <head>
 	<meta charset="utf-8">
 	<title>Welcome to Development</title>
-	<h1>Welcome to BEST HISAB.COM
-	</h1>
+	<h1>Welcome to BEST HISAB.COM</h1>
+	
 	<title> majid ali </title>
 
 	<style type="text/css">
